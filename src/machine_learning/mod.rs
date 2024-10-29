@@ -1,4 +1,5 @@
 mod cholesky;
+mod decision_trees;
 mod k_means;
 mod linear_regression;
 mod logistic_regression;
